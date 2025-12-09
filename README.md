@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# BaiTapLapTrinhDiDong
->>>>>>> 1957033bd9ede3977e750feb0fa2680650f534b2
+1.Mong muốn và định hưởng của bạn là gì sau khi học xong môn học là gi?
+- Em mong muốn sau khi học xong môn lập trình thiết bị di động sẽ có thể tự tay viết được 1 ứng dụng cơ bản và hữu ích cho mọi người. 
+- Sau khi hoàn thành ứng dụng, em có định hướng là sẽ tiếp tục phát triển thêm  các phần còn thiếu cho ứng dụng để có thể tối ưu trải nghiệm người dùng
+2.Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
+- Theo em trong tương lai gần điện thoại sẽ phát triển và phát triển hơn hiện tại rất nhiều. Vì trong thế giới ngày nay, từ người lớn, thiếu niên, đều đã có cho mình 1 chiếc điện thoại thông minh và đặc là trẻ em đã được tiếp xúc với điện thoại còn rất sớm. Điện thoại thông minh đem lại quá nhiều điều có lợi cho mọi người, từ nhu cầu về gọi điện, nhắn tin, gặp mặt nhau thông qua cuộc gọi, buôn bán hàng trên các sàn thương mại điện tử, kiếm tiền bằng cách đăng tải video lên các trang facebook, tiktok, youtube,… và các trò chơi ở CH Play, App Store. Vậy thì trong tương lai gần thì lập trình di động vẫn phát triển và có thể phát triển nhiều hơn ở hiện tại.
